@@ -1,0 +1,23 @@
+img{
+    border-radius: 300px;
+    width: 300px;
+}
+
+.container{
+    display: flex;
+}
+.username{
+    color: darkgray;
+}
+
+input{
+    width:150px;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+.content{
+    
+}
